@@ -1,8 +1,9 @@
 # simple-node-server
-basic node app that serve 4 pages
+Basic node app that serve 4 pages
 
-## routes
+## Routes
 /contact-me
+
 /about
 
 ## Live
