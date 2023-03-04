@@ -1,5 +1,5 @@
-# simple-node-server
-Basic node app that serve 4 pages
+# About
+Basic informational site that contains 4 pages: index, about, contact-me and 404. I simply create basic node server to complete what I have learned during  The Odin Project's Fullstack JavaScript Path.
 
 ## Routes
 /contact-me
